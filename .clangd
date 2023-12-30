@@ -1,0 +1,5 @@
+If:
+  PathMatch: .*\.cpp
+
+CompileFlags:
+  Add: [-std=c++23 -Wall -Werror -Wpedantic]
